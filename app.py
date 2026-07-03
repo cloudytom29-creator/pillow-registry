@@ -65,4 +65,4 @@ if uploaded_file is not None:
             mime="image/png"
         )
 else:
-    st.info("💡 Standby: Please upload a photo file from your device to activate th
+    st.info("💡 Standby: Please upload a photo file from your device to activate the image canvas filters.")
